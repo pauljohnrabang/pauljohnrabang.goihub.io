@@ -5,6 +5,11 @@
  */
 body {
   font-family: 'Lora', 'Times New Roman', serif;
+  background: url('../img/aw.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
   font-size: 20px;
   color: #333333;
 }
